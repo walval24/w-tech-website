@@ -123,9 +123,9 @@
 						<!-- Logo
 						============================================= -->
 						<div id="logo">
-							<a href="index.html">
-								<img class="logo-default" srcset="one-page/images/canvasone.png, one-page/images/canvasone@2x.png 2x" src="one-page/images/canvasone@2x.png" alt="Canvas Logo">
-								<img class="logo-dark" srcset="one-page/images/canvasone-dark.png, one-page/images/canvasone-dark@2x.png 2x" src="one-page/images/canvasone-dark@2x.png" alt="Canvas Logo">
+							<a href="/home">
+								<img class="logo-default" srcset="images/canvasone.png, images/canvasone@2x.png 2x" src="images/canvasone@2x.png" alt="Canv">
+								<img class="logo-dark" srcset="images/canvasone-dark.png, images/canvasone-dark@2x.png 2x" src="images/canvasone-dark@2x.png" alt="Ca">
 							</a>
 						</div><!-- #logo end -->
 
@@ -224,7 +224,7 @@
 
 								<div class="team">
 									<div class="team-image">
-										<img src="one-page/images/team/1.jpg" alt="John Doe">
+										<img src="images/team/1.jpg" alt="John Doe">
 										<div class="bg-overlay">
 											<div class="bg-overlay-content align-items-end" data-hover-animate="fadeIn" data-hover-speed="400">
 												<a href="#" class="social-icon bg-transparent h-bg-facebook" title="Facebook">
@@ -254,7 +254,7 @@
 
 								<div class="team">
 									<div class="team-image">
-										<img src="one-page/images/team/2.jpg" alt="Josh Clark">
+										<img src="images/team/2.jpg" alt="Josh Clark">
 										<div class="bg-overlay">
 											<div class="bg-overlay-content align-items-end" data-hover-animate="fadeIn" data-hover-speed="400">
 												<a href="#" class="social-icon bg-transparent h-bg-twitter" title="Twitter">
@@ -284,7 +284,7 @@
 
 								<div class="team">
 									<div class="team-image">
-										<img src="one-page/images/team/3.jpg" alt="Mary Jane">
+										<img src="images/team/3.jpg" alt="Mary Jane">
 										<div class="bg-overlay">
 											<div class="bg-overlay-content align-items-end" data-hover-animate="fadeIn" data-hover-speed="400">
 												<a href="#" class="social-icon bg-transparent h-bg-twitter" title="Twitter">
@@ -334,7 +334,7 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="one-page/images/portfolio/mixed/1.jpg" alt="Open Imagination">
+										<img src="images/portfolio/mixed/1.jpg" alt="Open Imagination">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
@@ -353,7 +353,7 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="one-page/images/portfolio/mixed/2.jpg" alt="Locked Steel Gate">
+										<img src="images/portfolio/mixed/2.jpg" alt="Locked Steel Gate">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
@@ -372,7 +372,7 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="one-page/images/portfolio/mixed/3.jpg" alt="Mac Sunglasses">
+										<img src="images/portfolio/mixed/3.jpg" alt="Mac Sunglasses">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
@@ -391,7 +391,7 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="one-page/images/portfolio/mixed/4.jpg" alt="Open Imagination">
+										<img src="images/portfolio/mixed/4.jpg" alt="Open Imagination">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
@@ -410,7 +410,7 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="one-page/images/portfolio/mixed/5.jpg" alt="Console Activity">
+										<img src="images/portfolio/mixed/5.jpg" alt="Console Activity">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
@@ -429,7 +429,7 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="one-page/images/portfolio/mixed/6.jpg" alt="Open Imagination">
+										<img src="images/portfolio/mixed/6.jpg" alt="Open Imagination">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
@@ -448,7 +448,7 @@
 							<div class="grid-inner">
 								<div class="portfolio-image">
 									<a href="#">
-										<img src="one-page/images/portfolio/mixed/7.jpg" alt="Backpack Contents">
+										<img src="images/portfolio/mixed/7.jpg" alt="Backpack Contents">
 									</a>
 									<div class="bg-overlay">
 										<div class="bg-overlay-content flex-column" data-hover-animate="fadeIn">
@@ -556,7 +556,7 @@
 					</div>
 
 					<div class="section parallax m-0 dark" style="padding: 150px 0;">
-						<img src="one-page/images/page/testimonials.jpg" class="parallax-bg">
+						<img src="images/page/testimonials.jpg" class="parallax-bg">
 
 						<div class="container">
 
@@ -605,7 +605,7 @@
 									<div class="grid-inner row align-items-center">
 										<div class="col-lg-6">
 											<div class="entry-image">
-												<a href="#"><img src="one-page/images/blog/1.jpg" alt="Paris"></a>
+												<a href="#"><img src="images/blog/1.jpg" alt="Paris"></a>
 											</div>
 										</div>
 										<div class="col-lg-6 mt-3 mt-lg-0">
@@ -624,7 +624,7 @@
 									<div class="grid-inner row align-items-center">
 										<div class="col-lg-6">
 											<div class="entry-image">
-												<a href="#"><img src="one-page/images/blog/2.jpg" alt="Paris"></a>
+												<a href="#"><img src="images/blog/2.jpg" alt="Paris"></a>
 											</div>
 										</div>
 										<div class="col-lg-6 mt-3 mt-lg-0">
@@ -643,7 +643,7 @@
 									<div class="grid-inner row align-items-center">
 										<div class="col-lg-6">
 											<div class="entry-image">
-												<a href="#"><img src="one-page/images/blog/3.jpg" alt="Paris"></a>
+												<a href="#"><img src="images/blog/3.jpg" alt="Paris"></a>
 											</div>
 										</div>
 										<div class="col-lg-6 mt-3 mt-lg-0">
@@ -662,7 +662,7 @@
 									<div class="grid-inner row align-items-center">
 										<div class="col-lg-6">
 											<div class="entry-image">
-												<a href="#"><img src="one-page/images/blog/4.jpg" alt="Paris"></a>
+												<a href="#"><img src="images/blog/4.jpg" alt="Paris"></a>
 											</div>
 										</div>
 										<div class="col-lg-6 mt-3 mt-lg-0">
@@ -707,7 +707,7 @@
 
 					<div class="row mx-0 mb-6 align-items-stretch">
 						<div class="col-lg-8 col-md-6 d-none d-md-block px-0">
-							<div class="gmap h-100" data-address="Melbourne, Australia" data-maptype="ROADMAP" data-zoom="14" data-markers='[{ address: "Melbourne, Australia", html: "Melbourne, Australia", icon:{ image: "one-page/images/icons/map-icon-red.png", iconsize: [32, 32], iconanchor: [14,44] } }]' data-styles='[{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":36},{"color":"#000000"},{"lightness":40}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#000000"},{"lightness":16}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":17},{"weight":1.2}]},{"featureType":"administrative","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"administrative.country","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"labels.text","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.province","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.locality","elementType":"all","stylers":[{"visibility":"simplified"},{"saturation":"-100"},{"lightness":"30"}]},{"featureType":"administrative.neighborhood","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.land_parcel","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"landscape","elementType":"all","stylers":[{"visibility":"simplified"},{"gamma":"0.00"},{"lightness":"74"}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"landscape.man_made","elementType":"all","stylers":[{"lightness":"3"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":21}]},{"featureType":"road","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":16}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":19}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":17}]}]'></div>
+							<div class="gmap h-100" data-address="Melbourne, Australia" data-maptype="ROADMAP" data-zoom="14" data-markers='[{ address: "Melbourne, Australia", html: "Melbourne, Australia", icon:{ image: "images/icons/map-icon-red.png", iconsize: [32, 32], iconanchor: [14,44] } }]' data-styles='[{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":36},{"color":"#000000"},{"lightness":40}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#000000"},{"lightness":16}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":17},{"weight":1.2}]},{"featureType":"administrative","elementType":"labels","stylers":[{"visibility":"off"}]},{"featureType":"administrative.country","elementType":"all","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.country","elementType":"labels.text","stylers":[{"visibility":"simplified"}]},{"featureType":"administrative.province","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.locality","elementType":"all","stylers":[{"visibility":"simplified"},{"saturation":"-100"},{"lightness":"30"}]},{"featureType":"administrative.neighborhood","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"administrative.land_parcel","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"landscape","elementType":"all","stylers":[{"visibility":"simplified"},{"gamma":"0.00"},{"lightness":"74"}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":20}]},{"featureType":"landscape.man_made","elementType":"all","stylers":[{"lightness":"3"}]},{"featureType":"poi","elementType":"all","stylers":[{"visibility":"off"}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":21}]},{"featureType":"road","elementType":"geometry","stylers":[{"visibility":"simplified"}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#000000"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#000000"},{"lightness":29},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":16}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":19}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#000000"},{"lightness":17}]}]'></div>
 						</div>
 						<div class="col-lg-4 col-md-6 bg-contrast-100">
 							<div class="col-padding">
