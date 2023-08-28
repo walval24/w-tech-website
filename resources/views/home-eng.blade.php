@@ -58,7 +58,6 @@
                 </div>
             </div>
         </div>
-        
 
         <!-- Header / Navbar -->
         <header id="header" class="full-header header-size-custom" data-sticky-shrink="false">
@@ -105,7 +104,7 @@
                                 </li>
                                 <li class="menu-item">
                                     <a href="#" class="menu-link" data-href="#section-about">
-                                        <div>Chi Siamo</div>
+                                        <div>About Us</div>
                                     </a>
                                 </li>
                                 <li class="menu-item">
@@ -115,12 +114,12 @@
                                 </li>
                                 <li class="menu-item">
                                     <a href="#" class="menu-link" data-href="#section-team">
-                                        <div>Il Team</div>
+                                        <div>The Team</div>
                                     </a>
                                 </li>
                                 <li class="menu-item">
                                     <a href="#" class="menu-link" data-href="#section-contatti">
-                                        <div>Contatti</div>
+                                        <div>Contacts</div>
                                     </a>
                                 </li>
                             </ul>
@@ -195,11 +194,11 @@
                     <div class="section m-0">
                         <div class="container">
                             <div class="mx-auto text-center" style="max-width: 1200px;">
-                                <h2 class="mb-0 fw-light ls-1">W-Tech è UN’AZIENDA MODERNA,
-                                    PER CLIENTI MODERNI.
-                                    il partner ideale per cogliere tutte le opportunità della Digital Transformation.
-                                    realizziamo il prodotto per il cliente, su misura, tenendo conto delle sue esigenze
-                                    e seguendolo nell’implementazione passo dopo passo.</h2>
+                                <h2 class="mb-0 fw-light ls-1">W-Tech is a MODERN COMPANY,
+                                    For MODERN CLIENTS.
+                                    The ideal partner to seize all the opportunities of Digital Transformation.
+                                    We create customized products for clients, taking into account their needs
+                                    and guiding them through the implementation step by step.</h2>
                             </div>
                         </div>
                     </div>
@@ -215,16 +214,15 @@
                                     <img src="images/cards/3.jpg" class="card-img-top" alt="...">
                                     <div class="card-body">
                                         <h3 class="card-title">Process Design</h3>
-                                        <p class="card-text">La progettazione dei processi ha origine nell'analisi, che
-                                            incorpora best
-                                            practice aziendali, modelli di riferimento e intuizioni del team. La
-                                            progettazione si concentra non solo sugli obiettivi finanziari, ma anche su
-                                            un panorama più ampio. Con oltre vent'anni di esperienza nell'analisi dei
-                                            processi bancari, economici e software, integrando l'innovazione con una
-                                            profonda comprensione del mercato tecnologico attuale, ci impegniamo a
-                                            fornire soluzioni efficaci ed efficienti. La nostra missione è affrontare le
-                                            sfide dell'attualità, mantenendo l'efficacia e l'efficienza al centro delle
-                                            soluzioni proposte. </p>
+                                        <p class="card-text">The design of processes originates in analysis, which
+                                            incorporates corporate best practices, reference models, and insights from
+                                            the team. The design focuses not only on financial objectives but also on a
+                                            broader landscape. With over twenty years of experience in analyzing
+                                            banking, economic, and software processes, integrating innovation with a
+                                            deep understanding of the current technological market, we are committed to
+                                            providing effective and efficient solutions. Our mission is to tackle the
+                                            challenges of the present while keeping effectiveness and efficiency at the
+                                            core of the proposed solutions. </p>
                                     </div>
                                 </div>
                             </div>
@@ -233,14 +231,14 @@
                                     <img src="images/cards/2.jpg" class="card-img-top" alt="...">
                                     <div class="card-body">
                                         <h3 class="card-title">Software Design</h3>
-                                        <p class="card-text">La progettazione software è un processo e un modello. Il
-                                            processo è una sequenza di passaggi che consente al progettista di
-                                            descrivere tutti gli aspetti del software: abilità creativa, esperienza
-                                            passata e impegno per la qualità sono fattori critici di successo. La
-                                            conoscenza della programmazione negli ambienti moderni è essenziale per
-                                            plasmare idee. Sviluppiamo per il web, realizziamo App per ogni piattaforma
-                                            e uniamo la creazione di sistemi complessi con interfacce interne, esterne e
-                                            multipiattaforma, il nostro marchio distintivo.</p>
+                                        <p class="card-text">Software design is both a process and a model. The process
+                                            is a sequence of steps that allows the designer to describe all aspects of
+                                            the software: creative ability, past experience, and commitment to quality
+                                            are critical success factors. Knowledge of programming in modern
+                                            environments is essential for shaping ideas. We develop for the web, create
+                                            apps for every platform, and merge the creation of complex systems with
+                                            internal, external, and cross-platform interfaces - our distinctive
+                                            hallmark.</p>
                                     </div>
                                 </div>
                             </div>
@@ -249,14 +247,14 @@
                                     <img src="images/cards/1.jpg" class="card-img-top" alt="...">
                                     <div class="card-body">
                                         <h3 class="card-title">Graphic Design</h3>
-                                        <p class="card-text">Il nostro Art Director e il suo staff creano il brand
-                                            dall'idea ai dettagli. Costruiamo l'identità aziendale enfatizzando principi
-                                            e valori attraverso la comunicazione. La comunicazione aziendale deve
-                                            riflettere solidità, efficienza e professionalità per posizionarsi bene nel
-                                            mercato. W Tech mira a evidenziare le qualità del cliente con un approccio
-                                            comunicativo efficace. La collaborazione si basa su 4 pilastri: consulenza
-                                            di marketing continua, ideazione creativa della brand identity, impostazione
-                                            degli strumenti di comunicazione e gestione delle piattaforme web e social.
+                                        <p class="card-text">Our Art Director and their team create the brand from
+                                            idea to details. We build corporate identity by emphasizing principles and
+                                            values through communication. Corporate communication must reflect solidity,
+                                            efficiency, and professionalism to establish a strong market position. W
+                                            Tech aims to highlight client qualities with an effective communicative
+                                            approach. Collaboration is built on four pillars: ongoing marketing
+                                            consultancy, creative ideation of brand identity, setting up communication
+                                            tools, and managing web and social platforms.
                                         </p>
                                     </div>
                                 </div>
@@ -266,15 +264,15 @@
                                     <img src="images/cards/4.jpg" class="card-img-top" alt="...">
                                     <div class="card-body">
                                         <h3 class="card-title">Ambient Design</h3>
-                                        <p class="card-text">Comprendere il mondo in 3D rende complesse le decisioni
-                                            basate su diagrammi 2D. Creiamo spazi digitali per una visione chiara e
-                                            valutazione precisa degli obiettivi.
+                                        <p class="card-text">Understanding the world in 3D makes decisions based on 2D
+                                            diagrams complex. We create digital spaces for clear visualization and
+                                            precise evaluation of objectives.
 
-                                            Trasformiamo rapidamente idee in prototipi, catturando l'essenza del
-                                            progetto o creando modelli dettagliati con elementi fotorealistici e
-                                            ambientazioni reali. Grazie alla nostra vasta esperienza nella modellazione
-                                            e progettazione, W Tech è il partner ideale per plasmare le tue idee e
-                                            fornire supporto professionale, che sia consulenza o realizzazione pratica.
+                                            We rapidly transform ideas into prototypes, capturing the essence of the
+                                            project by creating detailed models with photorealistic elements and real
+                                            environments. With our extensive experience in modeling and design, W Tech
+                                            is the ideal partner to shape your ideas and provide professional support,
+                                            whether it's consultancy or practical implementation.
                                         </p>
                                     </div>
                                 </div>
@@ -295,7 +293,7 @@
             <div class="section m-0">
                 <div class="container">
                     <div class="mx-auto text-center" style="max-width: 1200px;">
-                        <h2 class="mb-0 fw-light ls-1">I nostri Clienti ed i nostri Partners</h2>
+                        <h2 class="mb-0 fw-light ls-1">Our Clients ed our Partners</h2>
                     </div>
                 </div>
             </div>
@@ -334,20 +332,14 @@
             <div class="section m-0">
                 <div class="container">
                     <div class="mx-auto text-center" style="max-width: 1200px;">
-                        <h2 class="mb-0 fw-light ls-1">Il nostro team rappresenta l'eccellenza nella creazione
-                            digitale.
-                            Siamo un gruppo di sviluppatori, programmatori e grafici con esperienze diversificate, che
-                            si
-                            fondono in sinergia per offrire soluzioni complete. Le nostre abilità sono eterogenee:
-                            operiamo
-                            sia come programmatori esperti, creando codice efficiente e innovativo, sia come designer
-                            che
-                            danno forma a interfacce coinvolgenti. La nostra competenza nel gestire database complessi
-                            ci
-                            consente di creare applicazioni potenti e scalabili. Con il nostro approccio integrato,
-                            realizziamo progetti che coniugano funzionalità all'avanguardia e design accattivante,
-                            mettendo
-                            insieme il meglio di entrambi i mondi per un risultato eccezionale.</h2>
+                        <h2 class="mb-0 fw-light ls-1">Our team embodies excellence in digital creation.
+                            We are a group of developers, programmers, and designers with diverse experiences, coming
+                            together in synergy to offer comprehensive solutions. Our skills are diverse: we operate as
+                            proficient programmers, crafting efficient and innovative code, as well as designers who
+                            shape engaging interfaces. Our expertise in handling complex databases enables us to create
+                            powerful and scalable applications. With our integrated approach, we execute projects that
+                            blend cutting-edge functionality with captivating design, bringing together the best of both
+                            worlds for exceptional results.</h2>
                     </div>
                 </div>
             </div>
