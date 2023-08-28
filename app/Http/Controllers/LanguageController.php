@@ -3,13 +3,14 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\App;
 
 class LanguageController extends Controller
 {
-    public function switchLanguage($locale)
+    public function index(Request $request, $language = 'it')
     {
-        App::setLocale($locale);
-        return redirect()->back();
+        if (!in_array($language, ['it', 'en'])) {
+            abort(404); // Gestisci il caso di lingua non supportata
+        }
+        return view("home-$language");
     }
 }

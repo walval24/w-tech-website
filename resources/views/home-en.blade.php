@@ -51,8 +51,8 @@
             <div class="side-panel-wrap">
                 <div class="widget widget_links">
                     <h4>Language</h4>
-                    <div><a href="{{ route('change.language', ['locale' => 'it']) }}">Italiano</a></div>
-                    <div><a href="{{ route('change.language', ['locale' => 'en']) }}">English</a></div>
+                    <div><a href="{{ url('/') }}">Italiano</a></div>
+                    <div><a href="{{ url('/en') }}">English</a></div>
                 </div>
                 <div class="widget">
                 </div>
